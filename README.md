@@ -2,6 +2,9 @@
 StoraTAG
 The goal of the project was to create a mass food storage system that could be used to remotely monitor and manage food granaries or cold storage. StoraTAG is an RFID-enabled mass storage system that helps reduce food waste and improve food mobility and management by allowing us to trace the lifecycle of a sack from the time it enters the storage unit until it exits. It also uses a UID system (Unique Identification System) to distinguish sacks from one another and stores their related data in a database, making it simple for the user to track the status of the sacks from our StoraTAG website.
 
+![Uploading image.png…]()
+
+
 The following are some of the advantages of employing this system:
 
 Assists in real-time monitoring of product availability.
